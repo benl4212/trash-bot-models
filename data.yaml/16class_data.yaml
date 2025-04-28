@@ -1,6 +1,6 @@
-path: C:\Users\benl4\TrashBot\Tacodataset\data
-train: C:\Users\benl4\TrashBot\Tacodataset\data\train
-val: C:\Users\benl4\TrashBot\Tacodataset\data\validation
+path: C:\path\to\this\data.yaml
+train: C:\path\to\your\train
+val: C:\path\to\your\validation
 
 nc: 16
 
