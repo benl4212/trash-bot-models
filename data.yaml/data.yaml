@@ -1,7 +1,0 @@
-path: C:\Users\benl4\TrashBot\Tacodataset\data
-train: C:\Users\benl4\TrashBot\Tacodataset\data\train
-val: C:\Users\benl4\TrashBot\Tacodataset\data\validation
-
-nc: 16
-
-names: ['Aluminium foil', 'Bottle cap', 'Bottle', 'Can', 'Carton', 'Cigarette', 'Cup', 'Lid', 'Other litter', 'Other plastic', 'Paper', 'Plastic bag - wrapper', 'Plastic container', 'Straw', 'Styrofoam piece', 'Unlabeled litter']
