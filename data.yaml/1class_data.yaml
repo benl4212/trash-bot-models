@@ -1,0 +1,7 @@
+path: C:\path\to\this\data.yaml
+train: C:\path\to\your\train
+val: C:\path\to\your\validation
+
+
+nc: 1
+names: ['Common Litter']
