@@ -1,0 +1,7 @@
+path: C:\Users\benl4\TrashBot\binary_segmentation\Custom_Litter_Segmentation\data
+train: C:\Users\benl4\TrashBot\binary_segmentation\Custom_Litter_Segmentation\data\train
+val: C:\Users\benl4\TrashBot\binary_segmentation\Custom_Litter_Segmentation\data\validation
+
+
+nc: 1
+names: ['Common Litter']
