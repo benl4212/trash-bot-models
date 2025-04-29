@@ -12,7 +12,7 @@ These model architectures were developed by Ultralytics and are provided here fo
 
 **PYTORCH FORMAT MODELS**
 * 16 Class Model
-  * Filenames: 16class_box_pt.zip
+  * Filenames: `16class_box_pt.zip`
   * Trained from base: `yolov11n.pt`,
 * 1 Class Models
   * Filenames: `1class_box_pt.zip` , `1class_seg_relu_pt.zip` , `1class_seg_silu_pt.zip`
