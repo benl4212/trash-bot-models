@@ -34,10 +34,11 @@ the [Edge TPU Compiler](https://colab.research.google.com/github/google-coral/tu
   * The .zips also contain a metadata files that show Class Names and Image Size Inputs. Except for the ReLU model because it has identical configurations to SiLU
 
 ## Datasets used for Training/Val and PTQ
-* Segmentation: (https://universe.roboflow.com)[https://universe.roboflow.com/litter-bot/custom-litter-segmentation]
-* Box: (https://universe.roboflow.com)[https://universe.roboflow.com/litter-bot/custom-litter-object-detection]
+* Segmentation: (Roboflow)[https://universe.roboflow.com/litter-bot/custom-litter-segmentation]
+ 
+* Box: [https://universe.roboflow.com/litter-bot/custom-litter-object-detection]
   
-* PTQ: (https://universe.roboflow.com)[https://universe.roboflow.com/litter-bot/calibration-set-for-ptq]
+* PTQ: [https://universe.roboflow.com/litter-bot/calibration-set-for-ptq]
 
 ## Licensing
 
