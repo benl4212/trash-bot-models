@@ -10,14 +10,15 @@ These model architectures were developed by Ultralytics and are provided here fo
 
 ## Models Included
 
-* **PYTORCH FORMAT MODELS**
+**PYTORCH FORMAT MODELS**
 * 16 Class Model
   * Filenames: 16class_box_pt.zip
   * Trained from base: `yolov11n.pt`,
 * 1 Class Models
   * Filenames: `1class_box_pt.zip` , `1class_seg_relu_pt.zip` , `1class_seg_silu_pt.zip`
   * Trained from bases: `yolov11n.pt`, `yolov11n-seg.pt`
-* **EDGE TPU FORMAT MODELS**
+  
+**EDGE TPU FORMAT MODELS**
 * 16 Class Models
   * Filenames: `16class_box_320_edgetpu.zip` , `16class_box_544_edgetpu.zip`
 * 1 Class Models
@@ -34,7 +35,7 @@ the [Edge TPU Compiler](https://colab.research.google.com/github/google-coral/tu
   * The .zips also contain a metadata files that show Class Names and Image Size Inputs. Except for the ReLU model because it has identical configurations to SiLU
 
 ## Datasets used for Training/Val and PTQ
-* Segmentation: (Roboflow)[https://universe.roboflow.com/litter-bot/custom-litter-segmentation]
+* Segmentation: [https://universe.roboflow.com/litter-bot/custom-litter-segmentation]
  
 * Box: [https://universe.roboflow.com/litter-bot/custom-litter-object-detection]
   
